@@ -1,1 +1,3 @@
-# retail-dataset
+Project Name : Omnichannel Retail Sales and Inventory Analytics Dashboard
+
+This project focuses on building an end-to-end data analytics pipeline and interactive dashboard to help retailers unify and analyze sales data from both offline (POS) and online channels. It involves cleaning and transforming raw transaction data, storing it in a SQL database, and using tools like Python (Pandas) and Power BI/Tableau to generate insights such as total revenue, sales trends, peak shopping times, and top-performing products. The goal is to enable data-driven decision-making for different stakeholders—store managers, inventory planners, and sales directors—by providing a centralized, interactive dashboard that supports filtering by time, location, and product categories. Ultimately, the project delivers actionable insights to improve inventory management, optimize sales strategies, and enhance overall business performance.
